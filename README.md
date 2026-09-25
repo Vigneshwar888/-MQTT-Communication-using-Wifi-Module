@@ -72,7 +72,7 @@ void loop()
 # Output:
 
 
-<img width="691" height="1433" alt="WhatsApp Image 2026-09-24 at 8 19 13 AM" src="https://github.com/user-attachments/assets/08e2eccf-f27d-4802-a5f0-f0534bb3491c" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-25 at 10 47 42 AM" src="https://github.com/user-attachments/assets/18b630e2-0a1b-4120-9b63-4c8775f51d04" />
 
 
 ## Result:
